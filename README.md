@@ -1,4 +1,7 @@
-# C# Graph Class Library Implementation  
+# C# Graph Class Library Implementation (February-March 2023)
+
+This is a program I made to display my C# implementation of a directed weighted graph I created for SPU's algorithms course.
+
 ## About  
 Author: Karena Qian  
 Date: 3/17/2023  
